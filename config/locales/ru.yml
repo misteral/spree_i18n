@@ -2,6 +2,9 @@
 ru: 
   'no': "Нет"
   'yes': "Да"
+  agree to terms of service: "Согласие с условиями предоставления  сервиса"
+  agree to privacy policy: "Согласие с политикой предоставления"
+
   5_biggest_spenders: "5 крупнейших покупателей"
   a_copy_of_all_mail_will_be_sent_to_the_following_addresses: "Копии всех писем будут отосланы на следующие адреса"
   abbreviation: "Аббревиатура"
