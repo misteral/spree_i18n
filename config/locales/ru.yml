@@ -2,9 +2,8 @@
 ru:
   'no': "Нет"
   'yes': "Да"
-  agree to terms of service: "Согласие с условиями предоставления  сервиса"
   agree_to_terms_of_service: "Согласие с условиями предоставления  сервиса"
-  agree to privacy policy: "Согласие с политикой предоставления"
+  agree_to_privacy_policy: "Согласие с политикой предоставления"
   5_biggest_spenders: "5 крупнейших покупателей"
   a_copy_of_all_mail_will_be_sent_to_the_following_addresses: "Копии всех писем будут отосланы на следующие адреса"
   abbreviation: "Аббревиатура"
@@ -21,6 +20,7 @@ ru:
     new: "Новый"
     update: "Изменить"
   active: "Активен"
+  activate: "Активировать"
   activerecord:
     attributes:
       address:
@@ -468,6 +468,8 @@ ru:
   icon: "Иконка"
   icons_by: "Иконки предоставлены"
   image: "Изображение"
+  image_settings_description: "Настройки для картинок и изображений"
+  image_settings: "Настройки для изображений"
   images: "Изображения"
   images_for: "Изображения для"
   in_progress: "В процессе"
@@ -997,6 +999,7 @@ ru:
   successfully_created: "%{resource} был успешно создан!"
   successfully_removed: "%{resource} был успешно удален!"
   successfully_updated: "%{resource} был успешно обновлен!"
+  successfully_signed_up_for_analytics: "Успешно автризован для аналитики"
   system: "Система"
   tax: "Налог"
   tax_categories: "Категории налогов"
