@@ -373,6 +373,10 @@ ru:
   depth: "Глубина"
   description: "Описание"
   destroy: "Удалить"
+  devise:
+    user_registrations:
+      user:
+        signed_up: "Вы успешно зарегистрированы"
   didnt_receive_confirmation_instructions: "Не получили инструкций по подтверждению?"
   didnt_receive_unlock_instructions: "Не получили инструкций по разблокированию?"
   discount_amount: "Сумма скидки"
@@ -1073,6 +1077,11 @@ ru:
   vat: "НДС"
   version: "Версия"
   view_shipping_options: "Посмотреть настройки отправки"
+  views:
+    pagination:
+      truncate: " - "
+      next: "Следующая"
+      last: "Последняя"
   void: "Анулировать"
   website: "Сайт"
   weight: "Вес"
