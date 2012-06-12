@@ -377,6 +377,8 @@ ru:
     user_registrations:
       user:
         signed_up: "Вы успешно зарегистрированы"
+    failure:
+      invalid: "Имя логина или пароль не соответствуют"
   didnt_receive_confirmation_instructions: "Не получили инструкций по подтверждению?"
   didnt_receive_unlock_instructions: "Не получили инструкций по разблокированию?"
   discount_amount: "Сумма скидки"
