@@ -1084,6 +1084,8 @@ ru:
       truncate: " - "
       next: "Следующая"
       last: "Последняя"
+      first: "Первая"
+      previous: "Предыдущая"
   void: "Анулировать"
   website: "Сайт"
   weight: "Вес"
